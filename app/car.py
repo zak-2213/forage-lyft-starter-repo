@@ -1,5 +1,5 @@
-from battery.battery import Battery
-from engine.engine import Engine
+from batteries.battery import Battery
+from engines.engine import Engine
 from servicable import Servicable
 
 class Car (Servicable):
